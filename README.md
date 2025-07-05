@@ -131,7 +131,7 @@ All features are publicly accessible without authentication for simplicity.
 
 ### Frontend Deployment
 
-- Deployed on **Vercel**: https://library-management-api-liard.vercel.app/books
+- Deployed on **Vercel**: https://library-frontend-foa1wh900-numan-savits-projects.vercel.app/
 
 Make sure the frontend `apiSlice` baseUrl points to the deployed backend URL.
 
